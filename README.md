@@ -1,4 +1,5 @@
-Optuna Workshop
+*Optuna Workshop
+
 Welcome to the Optuna Workshop repository. This educational resource is tailored for master's students who possess a foundational understanding of artificial intelligence (AI) and optimization techniques but are new to the Optuna framework. This workshop aims to provide a comprehensive introduction to Optuna, an advanced hyperparameter optimization library, and guide you through its practical applications in machine learning.
 
 Overview
